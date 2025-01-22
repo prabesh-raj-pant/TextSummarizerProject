@@ -151,7 +151,6 @@ starlette==0.19.1
 sympy==1.13.1
 tabulate==0.9.0
 terminado==0.18.1
--e git+https://github.com/prabesh-raj-pant/TextSummarizerProject.git@b4bd1824b11a6213c0a4565408602de83cf29e98#egg=textSummarizer
 texttable==1.7.0
 tinycss2==1.4.0
 tokenizers==0.21.0
