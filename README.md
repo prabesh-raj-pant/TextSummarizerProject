@@ -23,5 +23,5 @@ pip install -r requirements.txt
 
 
 ```bash
-python app.py
+python3 app.py
 ```
